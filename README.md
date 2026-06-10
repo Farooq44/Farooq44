@@ -1,51 +1,45 @@
-<!-- SECTION A: ANIMATED HEADER -->
-<div align="center">
- <img src="
-" width="100" height="100" />
- <h1> 👋 Hello there!</h1>
- <h2>I'm a <a href=" https://readme-typing-svg.demolab.com/?lines=Python+Full+Stack+Developer;Passionate+About+Coding;Always+Learning;Enjoy+Building+Projects!&center=true&size=30&font=Architects+Daughter&color=F7C74C ">Python Full Stack Developer</a></h2>
-</div>
+# 👋 Hello, I'm [Farooq44]!
 
-<!-- SECTION B: ABOUT ME -->
-### About Me
-I am a dedicated Python Full Stack Developer with a knack for creating efficient and scalable web applications. With 0.6 years of experience, I enjoy tackling challenges and learning new technologies.
+![Wave Greeting](
+)
 
-- 🚀 Hobbies: Coding, Traveling, and Reading Tech Blogs 
-- 🎓 Self-taught with a passion for continuous learning 
-- ☕ Coffee enthusiast 
-- 🎮 Gamer at heart 
+[![Typing SVG]( https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;A+passionate+developer+from+the+world+of+tech )]( https://git.io/typing-svg )
 
-<!-- SECTION C: TECH STACK -->
-### Tech Stack
-#### Frontend
-![HTML]( https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white ) 
-![CSS]( https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white ) 
-![JavaScript]( https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black )
+## 🚀 About Me
 
-#### Backend
-![Python]( https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white ) 
-![Flask]( https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white ) 
-![MySQL]( https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white )
+- 🧑‍💻 I’m a Software Developer proficient in JavaScript, Python, and C#.
+- 🔭 I’m currently working on exciting open source projects.
+- 🌱 I’m constantly expanding my skillset and learning new technologies.
+- ⚡ Fun fact: I love hiking and exploring new trails.
 
-#### Tools
-![Git]( https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white ) 
+## 💼 Skills
 
-<!-- SECTION E: GITHUB STATS -->
-### GitHub Stats
-![My GitHub Stats]( https://github-readme-stats.vercel.app/api?username=Farooq44&show_icons=true&theme=tokyonight )
-![GitHub Streak Stats]( https://github-readme-streak-stats.herokuapp.com/?user=Farooq44&theme=tokyonight )
-![Top Languages]( https://github-readme-stats.vercel.app/api/top-langs/?username=Farooq44&layout=compact&theme=tokyonight )
+| Technology | Skills         |
+|------------|----------------|
+| Languages  | JavaScript, Python, C# |
+| Frameworks | React, Node.js, Django |
+| Tools      | Git, Docker, CI/CD |
+| Database   | MySQL, MongoDB, PostgreSQL |
 
-<!-- SECTION F: GITHUB TROPHIES -->
-### GitHub Trophies
-![GitHub Profile Trophy]( https://github-profile-trophy.vercel.app/?username=Farooq44&theme=darkhub )
+## 📈 Contributions
 
-<!-- SECTION G: VISITOR COUNTER -->
-![Profile Views]( https://komarev.com/ghpvc/?username=Farooq44 )
+[![GitHub Stats]( https://github-readme-stats.vercel.app/api?username=Farooq44&show_icons=true&theme=radical )]( https://github.com/Farooq44)
 
-<!-- SECTION H: FOOTER -->
-### Let's Connect 
-Thank you for visiting my profile! 🚀 
+[![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=Farooq44&layout=compact&theme=radical )]( https://github.com/Farooq44)
+
+## 📫 Get In Touch
+
+- Email: chfarooq2001.com 
+- LinkedIn: [your_linkedin_profile](https://www.linkedin.com/in/cherukuri-farooq-179947220/)
+
+## 💻 Check Out My Projects
+
+- [Project 1]( https://github.com/your_github_username/project1 ) - A brief description of Project 1.
+- [Project 2]( https://github.com/your_github_username/project2 ) - A brief description of Project 2.
+- [Project 3]( https://github.com/your_github_username/project3 ) - A brief description of Project 3.
+
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
+
 
 
 <!--
