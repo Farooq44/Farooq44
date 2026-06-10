@@ -3,9 +3,10 @@
  <img src="
 " width="100" height="100" />
  <h1> 👋 Hello there!</h1>
+ [![Typing SVG]( https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;A+passionate+developer+from+the+world+of+tech )]( https://git.io/typing-svg )
  <h2>I'm a <a href=" https://readme-typing-svg.demolab.com/?lines=Python+Full+Stack+Developer;Passionate+About+Coding;Always+Learning;Enjoy+Building+Projects!&center=true&size=30&font=Architects+Daughter&color=F7C74C ">Python Full Stack Developer</a></h2>
 </div>
-[![Typing SVG]( https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;A+passionate+developer+from+the+world+of+tech )]( https://git.io/typing-svg )
+
 
 <!-- SECTION B: ABOUT ME -->
 ### About Me
