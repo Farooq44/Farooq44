@@ -1,6 +1,6 @@
 <!-- SECTION A: ANIMATED HEADER -->
 <div align="center">
- <img src="github-banner.png.png" width="100" height="100" />
+ <img src="github-banner.png.png" width="100%" height="100%" />
  <h1> 👋 Hello there!</h1>
  <h2>I'm a <a href=" https://readme-typing-svg.demolab.com/?lines=Python+Full+Stack+Developer;Passionate+About+Coding;Always+Learning;Enjoy+Building+Projects!&center=true&size=30&font=Architects+Daughter&color=F7C74C ">Python Full Stack Developer</a></h2>
 </div>
