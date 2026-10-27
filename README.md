@@ -7,7 +7,7 @@
 
 <!-- SECTION B: ABOUT ME -->
 ### About Me
-I am a dedicated Python Full Stack Developer with a knack for creating efficient and scalable web applications. With 0.6 years of experience, I enjoy tackling challenges and learning new technologies.
+I am a dedicated Python Full Stack Developer with a knack for creating efficient and scalable web applications. With 1.5 years of experience, I enjoy tackling challenges and learning new technologies.
 
 - 🚀 Hobbies: Coding, Traveling, and Reading Tech Blogs 
 - 🎓 Self-taught with a passion for continuous learning 
